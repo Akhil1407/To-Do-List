@@ -1,4 +1,5 @@
-# To-Do-List
+# To-Do-List using React
+
 It is a application build using React and Tailwind css
 The features  that are included in the To-Do-List are :
   1.Adding new tasks
